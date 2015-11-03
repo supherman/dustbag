@@ -1,0 +1,433 @@
+<?xml version="1.0" ?>
+<ItemSearchResponse
+    xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+    <OperationRequest>
+        <HTTPHeaders>
+            <Header Name="UserAgent" Value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36"></Header>
+        </HTTPHeaders>
+        <RequestId>0adda2e2-434e-44f4-a216-dbdf4c593d1b</RequestId>
+        <Arguments>
+            <Argument Name="AWSAccessKeyId" Value="MyAccessKeyId"></Argument>
+            <Argument Name="AssociateTag" Value="affiliate-tag"></Argument>
+            <Argument Name="Keywords" Value="moto g"></Argument>
+            <Argument Name="Operation" Value="ItemSearch"></Argument>
+            <Argument Name="ResponseGroup" Value="Small"></Argument>
+            <Argument Name="SearchIndex" Value="All"></Argument>
+            <Argument Name="Service" Value="AWSECommerceService"></Argument>
+            <Argument Name="Timestamp" Value="2015-10-31T21:42:44.000Z"></Argument>
+            <Argument Name="Signature" Value="opMgS20ETTM3zQJf/1kutwTfxU089OuPu2pfnKf8ysA="></Argument>
+        </Arguments>
+        <RequestProcessingTime>0.2921170000000000</RequestProcessingTime>
+    </OperationRequest>
+    <Items>
+        <Request>
+            <IsValid>True</IsValid>
+            <ItemSearchRequest>
+                <Keywords>moto g</Keywords>
+                <ResponseGroup>Small</ResponseGroup>
+                <SearchIndex>All</SearchIndex>
+            </ItemSearchRequest>
+        </Request>
+        <TotalResults>1630787</TotalResults>
+        <TotalPages>163079</TotalPages>
+        <MoreSearchResultsUrl>http://www.amazon.com/gp/redirect.html?linkCode=xm2&SubscriptionId=MyAccessKeyId&location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch%3Fkeywords%3Dmoto%2Bg%26url%3Dsearch-alias%253Daws-amazon-aps&tag=affiliate-tag&creative=386001&camp=2025</MoreSearchResultsUrl>
+        <Item>
+            <ASIN>B00ZQVSKSM</ASIN>
+            <ParentASIN>B0127MKEAE</ParentASIN>
+            <DetailPageURL>http://www.amazon.com/Motorola-Moto-3rd-Generation-Unlocked/dp/B00ZQVSKSM%3Fpsc%3D1%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00ZQVSKSM</DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>http://www.amazon.com/Motorola-Moto-3rd-Generation-Unlocked/dp/tech-data/B00ZQVSKSM%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00ZQVSKSM</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00ZQVSKSM%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00ZQVSKSM</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00ZQVSKSM%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00ZQVSKSM</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00ZQVSKSM%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00ZQVSKSM</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>http://www.amazon.com/gp/pdp/taf/B00ZQVSKSM%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00ZQVSKSM</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>http://www.amazon.com/review/product/B00ZQVSKSM%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00ZQVSKSM</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>http://www.amazon.com/gp/offer-listing/B00ZQVSKSM%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00ZQVSKSM</URL>
+                </ItemLink>
+            </ItemLinks>
+            <ItemAttributes>
+                <Manufacturer>Motorola</Manufacturer>
+                <ProductGroup>Wireless</ProductGroup>
+                <Title>Motorola Moto G (3rd Generation) - Black - 8 GB - Global GSM Unlocked Phone</Title>
+            </ItemAttributes>
+        </Item>
+        <Item>
+            <ASIN>B00MWI4HW0</ASIN>
+            <ParentASIN>B00NOSVK54</ParentASIN>
+            <DetailPageURL>http://www.amazon.com/Motorola-Moto-generation-Cellphone-Black/dp/B00MWI4HW0%3Fpsc%3D1%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00MWI4HW0</DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>http://www.amazon.com/Motorola-Moto-generation-Cellphone-Black/dp/tech-data/B00MWI4HW0%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00MWI4HW0</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00MWI4HW0%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00MWI4HW0</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00MWI4HW0%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00MWI4HW0</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00MWI4HW0%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00MWI4HW0</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>http://www.amazon.com/gp/pdp/taf/B00MWI4HW0%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00MWI4HW0</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>http://www.amazon.com/review/product/B00MWI4HW0%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00MWI4HW0</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>http://www.amazon.com/gp/offer-listing/B00MWI4HW0%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00MWI4HW0</URL>
+                </ItemLink>
+            </ItemLinks>
+            <ItemAttributes>
+                <Manufacturer>Motorola</Manufacturer>
+                <ProductGroup>Wireless</ProductGroup>
+                <Title>Motorola Moto G (2nd generation) Unlocked Cellphone, 8GB, Black</Title>
+            </ItemAttributes>
+        </Item>
+        <Item>
+            <ASIN>B00GWR373M</ASIN>
+            <ParentASIN>B00GYTNP94</ParentASIN>
+            <DetailPageURL>http://www.amazon.com/Motorola-Moto-1st-Generation-Unlocked/dp/B00GWR373M%3Fpsc%3D1%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00GWR373M</DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>http://www.amazon.com/Motorola-Moto-1st-Generation-Unlocked/dp/tech-data/B00GWR373M%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00GWR373M</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00GWR373M%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00GWR373M</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00GWR373M%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00GWR373M</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00GWR373M%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00GWR373M</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>http://www.amazon.com/gp/pdp/taf/B00GWR373M%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00GWR373M</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>http://www.amazon.com/review/product/B00GWR373M%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00GWR373M</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>http://www.amazon.com/gp/offer-listing/B00GWR373M%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00GWR373M</URL>
+                </ItemLink>
+            </ItemLinks>
+            <ItemAttributes>
+                <Manufacturer>Motorola</Manufacturer>
+                <ProductGroup>Wireless</ProductGroup>
+                <Title>Motorola Moto G (1st Generation) - Black - 16GB - Global GSM Unlocked Phone</Title>
+            </ItemAttributes>
+        </Item>
+        <Item>
+            <ASIN>B00ZQVSKNM</ASIN>
+            <ParentASIN>B0127MKEAE</ParentASIN>
+            <DetailPageURL>http://www.amazon.com/Motorola-Moto-3rd-Generation-Unlocked/dp/B00ZQVSKNM%3Fpsc%3D1%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00ZQVSKNM</DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>http://www.amazon.com/Motorola-Moto-3rd-Generation-Unlocked/dp/tech-data/B00ZQVSKNM%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00ZQVSKNM</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00ZQVSKNM%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00ZQVSKNM</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00ZQVSKNM%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00ZQVSKNM</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00ZQVSKNM%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00ZQVSKNM</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>http://www.amazon.com/gp/pdp/taf/B00ZQVSKNM%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00ZQVSKNM</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>http://www.amazon.com/review/product/B00ZQVSKNM%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00ZQVSKNM</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>http://www.amazon.com/gp/offer-listing/B00ZQVSKNM%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00ZQVSKNM</URL>
+                </ItemLink>
+            </ItemLinks>
+            <ItemAttributes>
+                <Manufacturer>Motorola</Manufacturer>
+                <ProductGroup>Wireless</ProductGroup>
+                <Title>Motorola Moto G (3rd Generation) - White - 8 GB - Global GSM Unlocked Phone</Title>
+            </ItemAttributes>
+        </Item>
+        <Item>
+            <ASIN>B00ZQVSKS2</ASIN>
+            <ParentASIN>B0127MKEAE</ParentASIN>
+            <DetailPageURL>http://www.amazon.com/Motorola-Moto-3rd-Generation-Unlocked/dp/B00ZQVSKS2%3Fpsc%3D1%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00ZQVSKS2</DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>http://www.amazon.com/Motorola-Moto-3rd-Generation-Unlocked/dp/tech-data/B00ZQVSKS2%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00ZQVSKS2</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00ZQVSKS2%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00ZQVSKS2</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00ZQVSKS2%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00ZQVSKS2</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00ZQVSKS2%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00ZQVSKS2</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>http://www.amazon.com/gp/pdp/taf/B00ZQVSKS2%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00ZQVSKS2</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>http://www.amazon.com/review/product/B00ZQVSKS2%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00ZQVSKS2</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>http://www.amazon.com/gp/offer-listing/B00ZQVSKS2%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00ZQVSKS2</URL>
+                </ItemLink>
+            </ItemLinks>
+            <ItemAttributes>
+                <Manufacturer>Motorola</Manufacturer>
+                <ProductGroup>Wireless</ProductGroup>
+                <Title>Motorola Moto G (3rd Generation) - Black - 16 GB - Global GSM Unlocked Phone</Title>
+            </ItemAttributes>
+        </Item>
+        <Item>
+            <ASIN>B00MWI4IN8</ASIN>
+            <ParentASIN>B00NOSVK54</ParentASIN>
+            <DetailPageURL>http://www.amazon.com/Motorola-Moto-generation-Cellphone-White/dp/B00MWI4IN8%3Fpsc%3D1%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00MWI4IN8</DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>http://www.amazon.com/Motorola-Moto-generation-Cellphone-White/dp/tech-data/B00MWI4IN8%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00MWI4IN8</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00MWI4IN8%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00MWI4IN8</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00MWI4IN8%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00MWI4IN8</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00MWI4IN8%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00MWI4IN8</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>http://www.amazon.com/gp/pdp/taf/B00MWI4IN8%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00MWI4IN8</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>http://www.amazon.com/review/product/B00MWI4IN8%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00MWI4IN8</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>http://www.amazon.com/gp/offer-listing/B00MWI4IN8%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00MWI4IN8</URL>
+                </ItemLink>
+            </ItemLinks>
+            <ItemAttributes>
+                <Manufacturer>Motorola</Manufacturer>
+                <ProductGroup>Wireless</ProductGroup>
+                <Title>Motorola Moto G (2nd generation) Unlocked Cellphone, 8GB, White</Title>
+            </ItemAttributes>
+        </Item>
+        <Item>
+            <ASIN>B00GWR36F6</ASIN>
+            <ParentASIN>B00GYTNP94</ParentASIN>
+            <DetailPageURL>http://www.amazon.com/Motorola-Moto-1st-Generation-Unlocked/dp/B00GWR36F6%3Fpsc%3D1%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00GWR36F6</DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>http://www.amazon.com/Motorola-Moto-1st-Generation-Unlocked/dp/tech-data/B00GWR36F6%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00GWR36F6</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00GWR36F6%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00GWR36F6</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00GWR36F6%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00GWR36F6</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00GWR36F6%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00GWR36F6</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>http://www.amazon.com/gp/pdp/taf/B00GWR36F6%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00GWR36F6</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>http://www.amazon.com/review/product/B00GWR36F6%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00GWR36F6</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>http://www.amazon.com/gp/offer-listing/B00GWR36F6%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00GWR36F6</URL>
+                </ItemLink>
+            </ItemLinks>
+            <ItemAttributes>
+                <Manufacturer>Motorola</Manufacturer>
+                <ProductGroup>Wireless</ProductGroup>
+                <Title>Motorola Moto G (1st Generation) - Black - 8 GB - Global GSM  Unlocked Phone</Title>
+            </ItemAttributes>
+        </Item>
+        <Item>
+            <ASIN>B00HPP3QD6</ASIN>
+            <DetailPageURL>http://www.amazon.com/Moto-Verizon-Prepaid-Phone-Only/dp/B00HPP3QD6%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00HPP3QD6</DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>http://www.amazon.com/Moto-Verizon-Prepaid-Phone-Only/dp/tech-data/B00HPP3QD6%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00HPP3QD6</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00HPP3QD6%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00HPP3QD6</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00HPP3QD6%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00HPP3QD6</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00HPP3QD6%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00HPP3QD6</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>http://www.amazon.com/gp/pdp/taf/B00HPP3QD6%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00HPP3QD6</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>http://www.amazon.com/review/product/B00HPP3QD6%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00HPP3QD6</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>http://www.amazon.com/gp/offer-listing/B00HPP3QD6%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00HPP3QD6</URL>
+                </ItemLink>
+            </ItemLinks>
+            <ItemAttributes>
+                <Manufacturer>Motorola</Manufacturer>
+                <ProductGroup>Wireless</ProductGroup>
+                <Title>Moto G - Verizon Prepaid Phone (Verizon Prepaid Only)</Title>
+            </ItemAttributes>
+        </Item>
+        <Item>
+            <ASIN>B00K0NRZSW</ASIN>
+            <ParentASIN>B00UWIGEQ4</ParentASIN>
+            <DetailPageURL>http://www.amazon.com/Motorola-Moto-Generation-Cellphone-Black/dp/B00K0NRZSW%3Fpsc%3D1%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00K0NRZSW</DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>http://www.amazon.com/Motorola-Moto-Generation-Cellphone-Black/dp/tech-data/B00K0NRZSW%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00K0NRZSW</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00K0NRZSW%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00K0NRZSW</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00K0NRZSW%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00K0NRZSW</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00K0NRZSW%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00K0NRZSW</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>http://www.amazon.com/gp/pdp/taf/B00K0NRZSW%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00K0NRZSW</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>http://www.amazon.com/review/product/B00K0NRZSW%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00K0NRZSW</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>http://www.amazon.com/gp/offer-listing/B00K0NRZSW%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00K0NRZSW</URL>
+                </ItemLink>
+            </ItemLinks>
+            <ItemAttributes>
+                <Manufacturer>Motorola</Manufacturer>
+                <ProductGroup>Wireless</ProductGroup>
+                <Title>Motorola Moto G (1st Generation) Unlocked Cellphone, 8GB, Black</Title>
+            </ItemAttributes>
+        </Item>
+        <Item>
+            <ASIN>B00W3VHE9O</ASIN>
+            <DetailPageURL>http://www.amazon.com/generation-Joy-Chen-Protector-Radiation/dp/B00W3VHE9O%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00W3VHE9O</DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>http://www.amazon.com/generation-Joy-Chen-Protector-Radiation/dp/tech-data/B00W3VHE9O%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00W3VHE9O</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00W3VHE9O%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00W3VHE9O</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00W3VHE9O%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00W3VHE9O</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00W3VHE9O%26SubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00W3VHE9O</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>http://www.amazon.com/gp/pdp/taf/B00W3VHE9O%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00W3VHE9O</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>http://www.amazon.com/review/product/B00W3VHE9O%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00W3VHE9O</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>http://www.amazon.com/gp/offer-listing/B00W3VHE9O%3FSubscriptionId%3DMyAccessKeyId%26tag%3Daffiliate-tag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00W3VHE9O</URL>
+                </ItemLink>
+            </ItemLinks>
+            <ItemAttributes>
+                <Manufacturer>Joy Chen</Manufacturer>
+                <ProductGroup>Wireless</ProductGroup>
+                <Title>For Moto G (2nd generation) , Joy Chen Painting The Colorful Tree Leaves PU Leather and TPU [Wallet Magnet] Flip [Closure] Stand Case Cover for Moto G (2nd generation) With Card Holder F84+ Screen Protector + 24K Radiation Paste</Title>
+            </ItemAttributes>
+        </Item>
+    </Items>
+</ItemSearchResponse>

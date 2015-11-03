@@ -1,0 +1,18 @@
+<OperationRequest>
+    <HTTPHeaders>
+        <Header Name="UserAgent" Value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36"></Header>
+    </HTTPHeaders>
+    <RequestId>0adda2e2-434e-44f4-a216-dbdf4c593d1b</RequestId>
+    <Arguments>
+        <Argument Name="AWSAccessKeyId" Value="MyAccessKeyId"></Argument>
+        <Argument Name="AssociateTag" Value="affiliate-tag"></Argument>
+        <Argument Name="Keywords" Value="moto g"></Argument>
+        <Argument Name="Operation" Value="ItemSearch"></Argument>
+        <Argument Name="ResponseGroup" Value="Small"></Argument>
+        <Argument Name="SearchIndex" Value="All"></Argument>
+        <Argument Name="Service" Value="AWSECommerceService"></Argument>
+        <Argument Name="Timestamp" Value="2015-10-31T21:42:44.000Z"></Argument>
+        <Argument Name="Signature" Value="opMgS20ETTM3zQJf/1kutwTfxU089OuPu2pfnKf8ysA="></Argument>
+    </Arguments>
+    <RequestProcessingTime>0.2921170000000000</RequestProcessingTime>
+</OperationRequest>
