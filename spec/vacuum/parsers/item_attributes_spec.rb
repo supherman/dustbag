@@ -22,7 +22,7 @@ module Vacuum
         it { expect(subject.title).to eq 'Motorola Moto G (3rd Generation) - Black - 16 GB - Global GSM Unlocked Phone' }
       end
 
-      context 'When a movie' do
+      context 'when a movie' do
         let(:item_attributes) { Ox.parse(File.read('spec/fixtures/movie_item_attributes.xml')) }
 
         describe '#actors' do
@@ -43,6 +43,26 @@ module Vacuum
 
         describe '#title' do
           it { expect(subject.title).to eq "Marvel's The Avengers: Age Of Ultron (Plus Bonus Features)" }
+        end
+      end
+
+      context 'when a book' do
+        let(:item_attributes) { Ox.parse(File.read('spec/fixtures/book_item_attributes.xml')) }
+
+        describe '#authors' do
+          it { expect(subject.authors).to eq ['Ryan Bigg', 'Yehuda Katz', 'Steve Klabnik', 'Rebecca Skinner'] }
+        end
+
+        describe '#manufacturer' do
+          it { expect(subject.manufacturer).to eq 'Manning Publications' }
+        end
+
+        describe '#product_group' do
+          it { expect(subject.product_group).to eq 'Book' }
+        end
+
+        describe '#title' do
+          it { expect(subject.title).to eq 'Rails 4 in Action: Revised Edition of Rails 3 in Action' }
         end
       end
     end

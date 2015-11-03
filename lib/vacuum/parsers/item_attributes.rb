@@ -29,6 +29,10 @@ module Vacuum
       def director
         subnode_text('Director')
       end
+
+      def authors
+        repeated_subnodes_text('Author')
+      end
     end
   end
 end
