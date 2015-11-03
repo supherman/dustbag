@@ -10,6 +10,10 @@ module Vacuum
       subject { described_class.new(parsed_response) }
 
       it_behaves_like 'a common response'
+
+      describe '#items' do
+        it { expect(subject.items).to be_a_kind_of Items }
+      end
     end
   end
 end

@@ -24,7 +24,7 @@ module Vacuum
       end
 
       def member_class
-        Vacuum::Parser.const_get(member_name)
+        Vacuum::Parsers.const_get(member_name)
       end
 
       module ClassMethods

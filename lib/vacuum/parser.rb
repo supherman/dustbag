@@ -6,6 +6,13 @@ require 'vacuum/parsers/arguments'
 require 'vacuum/parsers/http_headers'
 require 'vacuum/parsers/operation_request'
 require 'vacuum/parsers/common'
+require 'vacuum/parsers/item_search_request'
+require 'vacuum/parsers/request'
+require 'vacuum/parsers/item_attributes'
+require 'vacuum/parsers/item_link'
+require 'vacuum/parsers/item_links'
+require 'vacuum/parsers/item'
+require 'vacuum/parsers/items'
 require 'vacuum/parsers/item_search_response'
 
 module Vacuum

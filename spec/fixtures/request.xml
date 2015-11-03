@@ -1,0 +1,8 @@
+<Request>
+    <IsValid>True</IsValid>
+    <ItemSearchRequest>
+        <Keywords>moto g</Keywords>
+        <ResponseGroup>Small</ResponseGroup>
+        <SearchIndex>All</SearchIndex>
+    </ItemSearchRequest>
+</Request>
