@@ -14,6 +14,21 @@ module Vacuum
       def title
         subnode_text('Title')
       end
+
+      def actors
+        repeated_subnodes_text('Actor')
+      end
+
+      def creators
+        repeated_subnodes('Creator').inject({}) do |acc, val|
+          acc[val['Role']] = val.text
+          acc
+        end
+      end
+
+      def director
+        subnode_text('Director')
+      end
     end
   end
 end
