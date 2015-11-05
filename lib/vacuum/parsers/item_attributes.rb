@@ -133,10 +133,7 @@ module Vacuum
       end
 
       def languages
-        languages = subnode('Languages')
-        languages.locate('Language').map do |language|
-          Language.new(language)
-        end
+        Languages.new(subnode('Languages'))
       end
 
       def release_date

@@ -143,9 +143,8 @@ module Vacuum
         end
 
         describe '#languages' do
-          it { expect(subject.languages).to_not be_empty }
+          it { expect(subject.languages).to be_a_kind_of Languages }
           it { expect(subject.languages.first).to be_a_kind_of Language }
-          it { expect(subject.languages.last).to be_a_kind_of Language }
         end
 
         describe '#release_date' do
