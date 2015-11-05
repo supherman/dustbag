@@ -1,11 +1,13 @@
 require 'spec_helper'
+require 'shared_examples/node'
+require 'shared_examples/node_context'
 
 module Vacuum
   module Parsers
     describe OperationRequest do
-      let(:operation_request) { Ox.parse(File.read('spec/fixtures/operation_request.xml')) }
+      include_context 'load xml from fixture'
 
-      subject { described_class.new(operation_request) }
+      it_behaves_like 'a node'
 
       describe '#request_id' do
         it { expect(subject.request_id).to eq '0adda2e2-434e-44f4-a216-dbdf4c593d1b' }

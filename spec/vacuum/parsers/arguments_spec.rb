@@ -1,12 +1,11 @@
 require 'spec_helper'
 require 'shared_examples/map_collection_node'
+require 'shared_examples/node_context'
 
 module Vacuum
   module Parsers
     describe Arguments do
-      let(:arguments) { Ox.parse(File.read('spec/fixtures/arguments.xml')) }
-
-      subject { described_class.new(arguments) }
+      include_context 'load xml from fixture'
 
       it_behaves_like 'a map collection node'
     end

@@ -1,12 +1,11 @@
 require 'spec_helper'
 require 'shared_examples/collection_node'
+require 'shared_examples/node_context'
 
 module Vacuum
   module Parsers
     describe ItemLinks do
-      let(:item_links) { Ox.parse(File.read('spec/fixtures/item_links.xml')) }
-
-      subject { described_class.new(item_links) }
+      include_context 'load xml from fixture'
 
       it_behaves_like 'a collection node of', ItemLink
     end

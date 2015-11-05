@@ -1,12 +1,11 @@
 require 'spec_helper'
 require 'shared_examples/node'
+require 'shared_examples/node_context'
 
 module Vacuum
   module Parsers
     describe Request do
-      let(:request) { Ox.parse(File.read('spec/fixtures/request.xml')) }
-
-      subject { described_class.new(request) }
+      include_context 'load xml from fixture'
 
       it_behaves_like 'a node'
 
@@ -16,7 +15,7 @@ module Vacuum
         end
 
         context 'when request is not valid' do
-          let(:request) { Ox.parse(File.read('spec/fixtures/invalid_request.xml')) }
+          include_context 'load xml from fixture', 'invalid_request'
 
           it { expect(subject.valid?).to be_falsy }
         end

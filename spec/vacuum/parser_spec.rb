@@ -3,7 +3,7 @@ require 'spec_helper'
 module Vacuum
   describe Parser do
     context 'an ItemSearchResponse' do
-      let(:response) { File.read('spec/fixtures/item_search_response_small.xml') }
+      let(:response) { File.read('spec/fixtures/item_search_response.xml') }
 
       it { expect{ Vacuum::Parser.parse(response) }.to_not raise_exception }
 

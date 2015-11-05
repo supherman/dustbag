@@ -1,12 +1,11 @@
 require 'spec_helper'
 require 'shared_examples/node'
+require 'shared_examples/node_context'
 
 module Vacuum
   module Parsers
     describe Language do
-      let(:language) { Ox.parse(File.read('spec/fixtures/language.xml')) }
-
-      subject { described_class.new(language) }
+      include_context 'load xml from fixture'
 
       it_behaves_like 'a node'
 

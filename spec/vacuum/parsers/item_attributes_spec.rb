@@ -1,12 +1,11 @@
 require 'spec_helper'
 require 'shared_examples/node'
+require 'shared_examples/node_context'
 
 module Vacuum
   module Parsers
     describe ItemAttributes do
-      let(:item_attributes) { Ox.parse(File.read('spec/fixtures/item_attributes.xml')) }
-
-      subject { described_class.new(item_attributes) }
+      include_context 'load xml from fixture'
 
       it_behaves_like 'a node'
 
@@ -120,7 +119,7 @@ module Vacuum
 
 
       context 'when a movie' do
-        let(:item_attributes) { Ox.parse(File.read('spec/fixtures/movie_item_attributes.xml')) }
+        include_context 'load xml from fixture', 'movie_item_attributes'
 
         describe '#actors' do
           it { expect(subject.actors).to eq ['Robert Downey Jr.', 'Chris Hemsworth', 'Mark Ruffalo', 'Chris Evans', 'Scarlett Johansson'] }
@@ -157,7 +156,7 @@ module Vacuum
       end
 
       context 'when a book' do
-        let(:item_attributes) { Ox.parse(File.read('spec/fixtures/book_item_attributes.xml')) }
+        include_context 'load xml from fixture', 'book_item_attributes'
 
         describe '#authors' do
           it { expect(subject.authors).to eq ['Ryan Bigg', 'Yehuda Katz', 'Steve Klabnik', 'Rebecca Skinner'] }
