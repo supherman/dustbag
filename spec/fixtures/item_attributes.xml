@@ -1,5 +1,58 @@
 <ItemAttributes>
+    <Binding>Unlocked Phone</Binding>
+    <Brand>Motorola</Brand>
+    <Color>Black</Color>
+    <EAN>0701799787331</EAN>
+    <EANList>
+        <EANListElement>0701799787331</EANListElement>
+        <EANListElement>0723755007703</EANListElement>
+    </EANList>
+    <Feature>Advanced water resistance</Feature>
+    <Feature>13 MP camera which includes a color-balancing dual LED Flash</Feature>
+    <Feature>5" HD display; Brilliant display quality and the strength of Corning® Gorilla® Glass</Feature>
+    <Feature>Quad core processing power in a great value product</Feature>
+    <Feature>5MP rear camera with a VGA front facing camera</Feature>
+    <Feature>Great 24hr battery performance with a 2470mAh battery</Feature>
+    <Feature>Expandable memory; Slot for an optional mircoSD card with up to 32 GB capacity.</Feature>
+    <Feature>4G LTE Speed; Browse, stream music, watch video, and play games at blazing speed.</Feature>
+    <IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+    <ItemDimensions>
+        <Height Units="hundredths-inches">559</Height>
+        <Length Units="hundredths-inches">263</Length>
+        <Weight Units="hundredths-pounds">34</Weight>
+        <Width Units="hundredths-inches">285</Width>
+    </ItemDimensions>
+    <Label>Motorola</Label>
+    <ListPrice>
+        <Amount>17999</Amount>
+        <CurrencyCode>USD</CurrencyCode>
+        <FormattedPrice>$179.99</FormattedPrice>
+    </ListPrice>
     <Manufacturer>Motorola</Manufacturer>
+    <Model>XT1540</Model>
+    <MPN>00770NARTL</MPN>
+    <PackageDimensions>
+        <Height Units="hundredths-inches">140</Height>
+        <Length Units="hundredths-inches">590</Length>
+        <Weight Units="hundredths-pounds">65</Weight>
+        <Width Units="hundredths-inches">430</Width>
+    </PackageDimensions>
+    <PackageQuantity>1</PackageQuantity>
+    <PartNumber>00770NARTL</PartNumber>
     <ProductGroup>Wireless</ProductGroup>
-    <Title>Motorola Moto G (3rd Generation) - Black - 16 GB - Global GSM Unlocked Phone</Title>
+    <ProductTypeName>WIRELESS_ACCESSORY</ProductTypeName>
+    <Publisher>Motorola</Publisher>
+    <Size>8 GB</Size>
+    <Studio>Motorola</Studio>
+    <Title>Motorola Moto G (3rd Generation) - Black - 8 GB - Global GSM Unlocked Phone</Title>
+    <TradeInValue>
+        <Amount>9287</Amount>
+        <CurrencyCode>USD</CurrencyCode>
+        <FormattedPrice>$92.87</FormattedPrice>
+    </TradeInValue>
+    <UPC>723755007703</UPC>
+    <UPCList>
+        <UPCListElement>723755007703</UPCListElement>
+        <UPCListElement>701799787331</UPCListElement>
+    </UPCList>
 </ItemAttributes>

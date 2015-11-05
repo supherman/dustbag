@@ -8,4 +8,3 @@ module Vacuum
     end
   end
 end
-

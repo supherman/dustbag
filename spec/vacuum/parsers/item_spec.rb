@@ -29,6 +29,30 @@ module Vacuum
       describe '#item_attributes' do
         it { expect(subject.item_attributes).to be_a_kind_of ItemAttributes }
       end
+
+      context 'item response for the medium response group' do
+        let(:item) { Ox.parse(File.read('spec/fixtures/item_medium.xml')) }
+
+        describe '#small_image' do
+          it { expect(subject.small_image).to be_a_kind_of Image }
+        end
+
+        describe '#medium_image' do
+          it { expect(subject.small_image).to be_a_kind_of Image }
+        end
+
+        describe '#large_image' do
+          it { expect(subject.small_image).to be_a_kind_of Image }
+        end
+
+        describe '#image_sets' do
+          it { expect(subject.image_sets).to be_a_kind_of ImageSets }
+        end
+
+        describe '#offer_summary' do
+          it { expect(subject.offer_summary).to be_a_kind_of OfferSummary }
+        end
+      end
     end
   end
 end

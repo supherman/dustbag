@@ -4,9 +4,26 @@
     <Actor>Mark Ruffalo</Actor>
     <Actor>Chris Evans</Actor>
     <Actor>Scarlett Johansson</Actor>
+    <AudienceRating>PG-13 (Parental Guidance Suggested)</AudienceRating>
+    <Binding>Amazon Instant Video</Binding>
     <Creator Role="Producer">Kevin Feige</Creator>
     <Creator Role="Writer">Joss Whedon</Creator>
     <Director>Joss Whedon</Director>
+    <Genre>Action</Genre>
+    <Languages>
+        <Language>
+            <Name>English</Name>
+            <Type>Subtitled</Type>
+        </Language>
+        <Language>
+            <Name>English</Name>
+            <Type>Unknown</Type>
+        </Language>
+    </Languages>
     <ProductGroup>Movie</ProductGroup>
+    <ProductTypeName>DOWNLOADABLE_MOVIE</ProductTypeName>
+    <ReleaseDate>2015-10-02</ReleaseDate>
+    <RunningTime Units="minutes">189</RunningTime>
+    <Studio>Marvel</Studio>
     <Title>Marvel's The Avengers: Age Of Ultron (Plus Bonus Features)</Title>
 </ItemAttributes>

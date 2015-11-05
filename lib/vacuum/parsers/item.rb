@@ -22,6 +22,26 @@ module Vacuum
       def item_attributes
         ItemAttributes.new(subnode('ItemAttributes'))
       end
+
+      def small_image
+        Image.new(subnode('SmallImage'))
+      end
+
+      def medium_image
+        Image.new(subnode('MediumImage'))
+      end
+
+      def large_image
+        Image.new(subnode('LargeImage'))
+      end
+
+      def image_sets
+        ImageSets.new(subnode('ImageSets'))
+      end
+
+      def offer_summary
+        OfferSummary.new(subnode('OfferSummary'))
+      end
     end
   end
 end

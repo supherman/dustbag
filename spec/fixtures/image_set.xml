@@ -1,0 +1,32 @@
+<ImageSet Category="primary">
+    <SwatchImage>
+        <URL>http://ecx.images-amazon.com/images/I/51HUq1IevaL._SL30_.jpg</URL>
+        <Height Units="pixels">30</Height>
+        <Width Units="pixels">22</Width>
+    </SwatchImage>
+    <SmallImage>
+        <URL>http://ecx.images-amazon.com/images/I/51HUq1IevaL._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">56</Width>
+    </SmallImage>
+    <ThumbnailImage>
+        <URL>http://ecx.images-amazon.com/images/I/51HUq1IevaL._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">56</Width>
+    </ThumbnailImage>
+    <TinyImage>
+        <URL>http://ecx.images-amazon.com/images/I/51HUq1IevaL._SL110_.jpg</URL>
+        <Height Units="pixels">110</Height>
+        <Width Units="pixels">82</Width>
+    </TinyImage>
+    <MediumImage>
+        <URL>http://ecx.images-amazon.com/images/I/51HUq1IevaL._SL160_.jpg</URL>
+        <Height Units="pixels">160</Height>
+        <Width Units="pixels">120</Width>
+    </MediumImage>
+    <LargeImage>
+        <URL>http://ecx.images-amazon.com/images/I/51HUq1IevaL.jpg</URL>
+        <Height Units="pixels">500</Height>
+        <Width Units="pixels">375</Width>
+    </LargeImage>
+</ImageSet>

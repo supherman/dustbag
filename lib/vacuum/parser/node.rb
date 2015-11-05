@@ -2,6 +2,9 @@ module Vacuum
   module Parser
     module Node
       attr_reader :node, :subnodes
+      extend Forwardable
+
+      def_delegators :node, :value, :text, :attributes
 
       def initialize(node)
         @node     = node

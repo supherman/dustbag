@@ -3,7 +3,59 @@
     <Author>Yehuda Katz</Author>
     <Author>Steve Klabnik</Author>
     <Author>Rebecca Skinner</Author>
+    <Binding>Paperback</Binding>
+    <EAN>9781617291098</EAN>
+    <EANList>
+        <EANListElement>9781617291098</EANListElement>
+    </EANList>
+    <Edition>Second Edition</Edition>
+    <ISBN>1617291099</ISBN>
+    <IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+    <ItemDimensions>
+        <Height Units="hundredths-inches">110</Height>
+        <Length Units="hundredths-inches">920</Length>
+        <Weight Units="hundredths-pounds">0</Weight>
+        <Width Units="hundredths-inches">730</Width>
+    </ItemDimensions>
+    <Label>Manning Publications</Label>
+    <Languages>
+        <Language>
+            <Name>English</Name>
+            <Type>Published</Type>
+        </Language>
+        <Language>
+            <Name>English</Name>
+            <Type>Original Language</Type>
+        </Language>
+        <Language>
+            <Name>English</Name>
+            <Type>Unknown</Type>
+        </Language>
+    </Languages>
+    <ListPrice>
+        <Amount>4999</Amount>
+        <CurrencyCode>USD</CurrencyCode>
+        <FormattedPrice>$49.99</FormattedPrice>
+    </ListPrice>
     <Manufacturer>Manning Publications</Manufacturer>
+    <NumberOfItems>1</NumberOfItems>
+    <NumberOfPages>576</NumberOfPages>
+    <PackageDimensions>
+        <Height Units="hundredths-inches">130</Height>
+        <Length Units="hundredths-inches">900</Length>
+        <Weight Units="hundredths-pounds">235</Weight>
+        <Width Units="hundredths-inches">730</Width>
+    </PackageDimensions>
+    <PackageQuantity>1</PackageQuantity>
     <ProductGroup>Book</ProductGroup>
+    <ProductTypeName>ABIS_BOOK</ProductTypeName>
+    <PublicationDate>2015-09-19</PublicationDate>
+    <Publisher>Manning Publications</Publisher>
+    <Studio>Manning Publications</Studio>
     <Title>Rails 4 in Action: Revised Edition of Rails 3 in Action</Title>
+    <TradeInValue>
+        <Amount>1821</Amount>
+        <CurrencyCode>USD</CurrencyCode>
+        <FormattedPrice>$18.21</FormattedPrice>
+    </TradeInValue>
 </ItemAttributes>
