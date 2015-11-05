@@ -30,7 +30,7 @@ module Vacuum
       end
 
       context 'item response for the medium response group' do
-        let(:item) { Ox.parse(File.read('spec/fixtures/item_medium.xml')) }
+        include_context 'load xml from fixture', 'item_medium'
 
         describe '#small_image' do
           it { expect(subject.small_image).to be_a_kind_of Image }
@@ -50,6 +50,34 @@ module Vacuum
 
         describe '#offer_summary' do
           it { expect(subject.offer_summary).to be_a_kind_of OfferSummary }
+        end
+      end
+
+      context 'item response for the large response group' do
+        include_context 'load xml from fixture', 'item_large'
+
+        describe '#sales_rank' do
+          it { expect(subject.sales_rank).to eq 399 }
+        end
+
+        describe '#offers' do
+          it { expect(subject.offers).to be_a_kind_of Offers }
+        end
+
+        describe '#customer_reviews' do
+          it { expect(subject.customer_reviews).to be_a_kind_of CustomerReviews }
+        end
+
+        describe '#editorial_reviews' do
+          it { expect(subject.editorial_reviews).to be_a_kind_of EditorialReviews }
+        end
+
+        describe '#similar_products' do
+          it { expect(subject.similar_products).to be_a_kind_of SimilarProducts }
+        end
+
+        describe '#browse_nodes' do
+          it { expect(subject.browse_nodes).to be_a_kind_of BrowseNodes }
         end
       end
     end

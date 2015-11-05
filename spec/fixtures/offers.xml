@@ -1,0 +1,31 @@
+<Offers>
+  <TotalOffers>1</TotalOffers>
+  <TotalOfferPages>1</TotalOfferPages>
+  <MoreOffersUrl>http://www.amazon.com/gp/offer-listing/B00ZQVSKSM%3FSubscriptionId%3DAKIAIHNK3TBF4L5EDREQ%26tag%3Dmagmalabs-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00ZQVSKSM</MoreOffersUrl>
+  <Offer>
+      <OfferAttributes>
+          <Condition>New</Condition>
+      </OfferAttributes>
+      <OfferListing>
+          <OfferListingId>DZEJaOVZkxOW3bnN9SFvLNIEVwWDB3Y0HBG5zgBQ7jwJI9gANnOgNkJYiwRiuWUAx8GXFAWOjSrH4nrN4grN4gmtpEZHnkVZy4bHkNzvMu2G18d6bykCLQ%3D%3D</OfferListingId>
+          <Price>
+              <Amount>17962</Amount>
+              <CurrencyCode>USD</CurrencyCode>
+              <FormattedPrice>$179.62</FormattedPrice>
+          </Price>
+          <AmountSaved>
+              <Amount>37</Amount>
+              <CurrencyCode>USD</CurrencyCode>
+              <FormattedPrice>$0.37</FormattedPrice>
+          </AmountSaved>
+          <Availability>Usually ships in 24 hours</Availability>
+          <AvailabilityAttributes>
+              <AvailabilityType>now</AvailabilityType>
+              <MinimumHours>0</MinimumHours>
+              <MaximumHours>0</MaximumHours>
+          </AvailabilityAttributes>
+          <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+          <IsEligibleForPrime>1</IsEligibleForPrime>
+      </OfferListing>
+  </Offer>
+</Offers>

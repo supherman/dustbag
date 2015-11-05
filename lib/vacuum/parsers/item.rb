@@ -42,6 +42,30 @@ module Vacuum
       def offer_summary
         OfferSummary.new(subnode('OfferSummary'))
       end
+
+      def sales_rank
+        subnode_text('SalesRank').to_i
+      end
+
+      def offers
+        Offers.new(subnode('Offers'))
+      end
+
+      def customer_reviews
+        CustomerReviews.new(subnode('CustomerReviews'))
+      end
+
+      def editorial_reviews
+        EditorialReviews.new(subnode('EditorialReviews'))
+      end
+
+      def similar_products
+        SimilarProducts.new(subnode('SimilarProducts'))
+      end
+
+      def browse_nodes
+        BrowseNodes.new(subnode('BrowseNodes'))
+      end
     end
   end
 end

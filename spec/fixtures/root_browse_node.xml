@@ -1,0 +1,11 @@
+<BrowseNode>
+    <BrowseNodeId>2335753011</BrowseNodeId>
+    <Name>Categories</Name>
+    <IsCategoryRoot>1</IsCategoryRoot>
+    <Ancestors>
+        <BrowseNode>
+            <BrowseNodeId>2335752011</BrowseNodeId>
+            <Name>Cell Phones & Accessories</Name>
+        </BrowseNode>
+    </Ancestors>
+</BrowseNode>

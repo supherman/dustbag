@@ -117,7 +117,6 @@ module Vacuum
         it { expect(subject.upc_list).to include('701799787331') }
       end
 
-
       context 'when a movie' do
         include_context 'load xml from fixture', 'movie_item_attributes'
 
@@ -151,7 +150,9 @@ module Vacuum
         end
 
         describe '#running_time' do
-          it { expect(subject.running_time).to be_a_kind_of Duration }
+          it { expect(subject.running_time).to be_a_kind_of Dimension }
+          it { expect(subject.running_time.value).to eq 189 }
+          it { expect(subject.running_time.units).to eq 'minutes'}
         end
       end
 

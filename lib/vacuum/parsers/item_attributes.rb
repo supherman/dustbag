@@ -141,7 +141,7 @@ module Vacuum
       end
 
       def running_time
-        Duration.new(subnode('RunningTime'))
+        Dimension.new(subnode('RunningTime'))
       end
 
       def isbn
