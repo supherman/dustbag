@@ -34,11 +34,11 @@ module Dustbag
       end
 
       describe '#medium_image' do
-        it { expect(subject.small_image).to be_a_kind_of Image }
+        it { expect(subject.medium_image).to be_a_kind_of Image }
       end
 
       describe '#large_image' do
-        it { expect(subject.small_image).to be_a_kind_of Image }
+        it { expect(subject.large_image).to be_a_kind_of Image }
       end
 
       describe '#image_sets' do
