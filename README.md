@@ -1,12 +1,12 @@
 # Dustbag
 [![Build Status](https://snap-ci.com/supherman/dustbag/branch/master/build_image)](https://snap-ci.com/supherman/dustbag/branch/master)
+[![Code Climate](https://codeclimate.com/github/supherman/dustbag/badges/gpa.svg)](https://codeclimate.com/github/supherman/dustbag)
+[![Test Coverage](https://codeclimate.com/github/supherman/dustbag/badges/coverage.svg)](https://codeclimate.com/github/supherman/dustbag/coverage)
 
 **Dustbag** is a set of response parsers for [Vacumm](https://github.com/hakanensari/vacuum) (a Ruby wrapper of the [Amazon Product Advertising API](https://affiliate-program.amazon.com/gp/advertising/api/detail/main.html)
 
 
 ![](https://sightsandsoundsinc.files.wordpress.com/2010/06/dust-image.jpg)
-![Code Climate](https://codeclimate.com/github/supherman/dustbag/badges/gpa.svg)](https://codeclimate.com/github/supherman/dustbag)
-![Test Coverage](https://codeclimate.com/github/supherman/dustbag/badges/coverage.svg)](https://codeclimate.com/github/supherman/dustbag/coverage)
 
 Vacuum is an excellent client for the Amazon Product Advertising API, it handles all the possible interactons with the API, but unfortunately you're required to implement your own response parse mechanisms. So Vacuum just give us a ton of dust (in form of xml), which is not bad, because that's not its job, dustbag's job is to handle all that dust and give it a meaningful use.
 
