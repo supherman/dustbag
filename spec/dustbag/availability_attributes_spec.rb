@@ -15,7 +15,7 @@ module Dustbag
     end
 
     describe '#minimum_hours' do
-      it { expect(subject.maximum_hours).to eq 0 }
+      it { expect(subject.minimum_hours).to eq 0 }
     end
   end
 end
