@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    vacuum-parsers (0.0.1)
+    dustbag (0.0.1)
       ox
       vacuum
 
@@ -43,10 +43,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  dustbag!
   pry
   rake
   rspec
-  vacuum-parsers!
 
 BUNDLED WITH
    1.10.6

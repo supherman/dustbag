@@ -1,4 +1,4 @@
-require 'vacuum/parsers'
+require 'dustbag'
 
 RSpec.configure do |config|
   config.expect_with :rspec do |expectations|

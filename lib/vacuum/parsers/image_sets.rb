@@ -1,9 +1,0 @@
-module Vacuum
-  module Parsers
-    class ImageSets
-      include Parser::CollectionNode
-
-      member_name 'ImageSet'
-    end
-  end
-end
