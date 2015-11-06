@@ -46,6 +46,19 @@ response.parse
 
 You'll get an ```ItemSearchReponse``` object, this object has an 'items' method which is a collection of the Items matchig your search, if you want to see what can you do with these itmes, look at the source code of the [```Item``` class](https://github.com/supherman/dustbag/blob/master/lib/dustbag/item.rb)
 
+## Project status
+
+Right now, there is only one response parser implemented (ItemSearchResponse), the remaining work is to implement the following responses:
+
+- [BrowseNodeLookup](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/BrowseNodeLookup.html)
+- [ItemLookup](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/ItemLookup.html)
+- [SimilarityLookup](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/SimilarityLookup.html)
+- [CartAdd](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/CartAdd.html)
+- [CartClear](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/CartClear.html)
+- [CartCreate](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/CartCreate.html)
+- [CartGet](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/CartGet.html)
+- [CartModify](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/CartModify.html)
+
 ## Contributing
 
 1. Fork it
