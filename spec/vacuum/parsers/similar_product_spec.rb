@@ -1,5 +1,6 @@
 require 'spec_helper'
 require 'shared_examples/node'
+require 'shared_examples/simple_product'
 
 module Vacuum
   module Parsers
@@ -7,6 +8,7 @@ module Vacuum
       include_context 'load xml from fixture'
 
       it_behaves_like 'a node'
+      it_behaves_like 'a simple product'
 
       describe '#asin' do
         it { expect(subject.asin).to eq 'B0146PPAG8' }

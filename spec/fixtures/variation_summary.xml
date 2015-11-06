@@ -1,0 +1,12 @@
+<VariationSummary>
+    <LowestPrice>
+        <Amount>8999</Amount>
+        <CurrencyCode>USD</CurrencyCode>
+        <FormattedPrice>$89.99</FormattedPrice>
+    </LowestPrice>
+    <HighestPrice>
+        <Amount>11999</Amount>
+        <CurrencyCode>USD</CurrencyCode>
+        <FormattedPrice>$119.99</FormattedPrice>
+    </HighestPrice>
+</VariationSummary>

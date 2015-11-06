@@ -66,6 +66,22 @@ module Vacuum
       def browse_nodes
         BrowseNodes.new(subnode('BrowseNodes'))
       end
+
+      def accessories
+        Accessories.new(subnode('Accessories'))
+      end
+
+      def variation_summary
+        VariationSummary.new(subnode('VariationSummary'))
+      end
+
+      def variations
+        Variations.new(subnode('Variations'))
+      end
+
+      def variation_attributes
+        VariationAttributes.new(subnode('VariationAttributes'))
+      end
     end
   end
 end

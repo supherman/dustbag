@@ -1,0 +1,1016 @@
+<Item>
+    <ASIN>B0145QVVX4</ASIN>
+    <ParentASIN>B0145QVVX4</ParentASIN>
+    <VariationSummary>
+        <LowestPrice>
+            <Amount>8999</Amount>
+            <CurrencyCode>USD</CurrencyCode>
+            <FormattedPrice>$89.99</FormattedPrice>
+        </LowestPrice>
+        <HighestPrice>
+            <Amount>11999</Amount>
+            <CurrencyCode>USD</CurrencyCode>
+            <FormattedPrice>$119.99</FormattedPrice>
+        </HighestPrice>
+    </VariationSummary>
+    <Variations>
+        <TotalVariations>4</TotalVariations>
+        <TotalVariationPages>1</TotalVariationPages>
+        <VariationDimensions>
+            <VariationDimension>Color</VariationDimension>
+        </VariationDimensions>
+        <Item>
+            <ASIN>B00ZUT7F9K</ASIN>
+            <ParentASIN>B0145QVVX4</ParentASIN>
+            <SmallImage>
+                <URL>http://ecx.images-amazon.com/images/I/41DyTrWD18L._SL75_.jpg</URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">75</Width>
+            </SmallImage>
+            <MediumImage>
+                <URL>http://ecx.images-amazon.com/images/I/41DyTrWD18L._SL160_.jpg</URL>
+                <Height Units="pixels">160</Height>
+                <Width Units="pixels">160</Width>
+            </MediumImage>
+            <LargeImage>
+                <URL>http://ecx.images-amazon.com/images/I/41DyTrWD18L.jpg</URL>
+                <Height Units="pixels">500</Height>
+                <Width Units="pixels">500</Width>
+            </LargeImage>
+            <ImageSets>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31HS7pGEc0L._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31HS7pGEc0L._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31HS7pGEc0L._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31HS7pGEc0L._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31HS7pGEc0L._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31HS7pGEc0L.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41E9pTneiAL._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41E9pTneiAL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41E9pTneiAL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41E9pTneiAL._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41E9pTneiAL._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41E9pTneiAL.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41IkHhvflEL._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41IkHhvflEL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41IkHhvflEL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41IkHhvflEL._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41IkHhvflEL._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41IkHhvflEL.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31g7zNgRtxL._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31g7zNgRtxL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31g7zNgRtxL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31g7zNgRtxL._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31g7zNgRtxL._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31g7zNgRtxL.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="primary">
+                    <SwatchImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41DyTrWD18L._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41DyTrWD18L._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41DyTrWD18L._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41DyTrWD18L._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41DyTrWD18L._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41DyTrWD18L.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+            </ImageSets>
+            <ItemAttributes>
+                <Binding>Electronics</Binding>
+                <Brand>Beats</Brand>
+                <Color>Green</Color>
+                <EAN>0638267988511</EAN>
+                <EANList>
+                    <EANListElement>0638267988511</EANListElement>
+                </EANList>
+                <Feature>This Certified Refurbished product is factory refurbished, shows limited or no wear, and includes all original accessories plus a 90 day warranty</Feature>
+                <Feature>Item Includes: Beats Solo HD on-ear headphone and In-line control and mic cable</Feature>
+                <Feature>Clearer sound. Deeper bass. Beats Solo HD headphones are the only Beats by Dr. Dre that come with not one, but two speakers inside each can. That means you get crystal clear highs and deep, rumbling lows in high definition. Every pair is now construc</Feature>
+                <Feature>Built-in mic for calls. Switch easily between songs and incoming calls. No need to take off your headphones or talk into the phone like a walkie-talkie.</Feature>
+                <Feature>Remote control. Take calls, skip songs and adjust volume right from the cord of your Beats Solo HD headphones. No more searching for your phone or music player just to find the right song.</Feature>
+                <ItemDimensions>
+                    <Height Units="hundredths-inches">690</Height>
+                    <Length Units="hundredths-inches">910</Length>
+                    <Width Units="hundredths-inches">530</Width>
+                </ItemDimensions>
+                <Label>Beats</Label>
+                <ListPrice>
+                    <Amount>19995</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$199.95</FormattedPrice>
+                </ListPrice>
+                <Manufacturer>Beats</Manufacturer>
+                <Model>BT ON SOLOHD GRN</Model>
+                <MPN>BT ON SOLOHD GRN</MPN>
+                <PackageDimensions>
+                    <Height Units="hundredths-inches">420</Height>
+                    <Length Units="hundredths-inches">920</Length>
+                    <Weight Units="hundredths-pounds">65</Weight>
+                    <Width Units="hundredths-inches">560</Width>
+                </PackageDimensions>
+                <PackageQuantity>1</PackageQuantity>
+                <PartNumber>BT ON SOLOHD GRN</PartNumber>
+                <ProductGroup>CE</ProductGroup>
+                <ProductTypeName>AUDIO_OR_VIDEO</ProductTypeName>
+                <Publisher>Beats</Publisher>
+                <Studio>Beats</Studio>
+                <Title>Beats Solo HD On-Ear Headphone - Green (Certified Refurbished)</Title>
+                <UPC>638267988511</UPC>
+                <UPCList>
+                    <UPCListElement>638267988511</UPCListElement>
+                </UPCList>
+            </ItemAttributes>
+            <VariationAttributes>
+                <VariationAttribute>
+                    <Name>Color</Name>
+                    <Value>Green</Value>
+                </VariationAttribute>
+            </VariationAttributes>
+            <Offers>
+                <Offer>
+                    <Merchant>
+                        <Name>Square Deals Inc</Name>
+                    </Merchant>
+                    <OfferAttributes>
+                        <Condition>New</Condition>
+                    </OfferAttributes>
+                    <OfferListing>
+                        <OfferListingId>3jOMj2SwqmC8cv8ABDey%2Ffif3UG443kkY1jkanQo4f8pOU6yZ2pOoyduekYJAP%2FXifBDie6GIHpWSqVvJq5Wdcb9ZJaSTMBMz2%2B8fXMb9vCZYF7iqLVsB1ZPivZSu%2Fe1SNs1IeERgtulEkJGcw4lkUo9d4nwKPsb</OfferListingId>
+                        <Price>
+                            <Amount>10999</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$109.99</FormattedPrice>
+                        </Price>
+                        <AmountSaved>
+                            <Amount>8996</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$89.96</FormattedPrice>
+                        </AmountSaved>
+                        <PercentageSaved>45</PercentageSaved>
+                        <Availability>Usually ships in 24 hours</Availability>
+                        <AvailabilityAttributes>
+                            <AvailabilityType>now</AvailabilityType>
+                            <MinimumHours>0</MinimumHours>
+                            <MaximumHours>0</MaximumHours>
+                        </AvailabilityAttributes>
+                        <IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+                        <IsEligibleForPrime>1</IsEligibleForPrime>
+                    </OfferListing>
+                </Offer>
+            </Offers>
+        </Item>
+        <Item>
+            <ASIN>B00ZUTLG5Y</ASIN>
+            <ParentASIN>B0145QVVX4</ParentASIN>
+            <SmallImage>
+                <URL>http://ecx.images-amazon.com/images/I/31IW6HVSUwL._SL75_.jpg</URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">70</Width>
+            </SmallImage>
+            <MediumImage>
+                <URL>http://ecx.images-amazon.com/images/I/31IW6HVSUwL._SL160_.jpg</URL>
+                <Height Units="pixels">160</Height>
+                <Width Units="pixels">149</Width>
+            </MediumImage>
+            <LargeImage>
+                <URL>http://ecx.images-amazon.com/images/I/31IW6HVSUwL.jpg</URL>
+                <Height Units="pixels">500</Height>
+                <Width Units="pixels">467</Width>
+            </LargeImage>
+            <ImageSets>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>http://ecx.images-amazon.com/images/I/311VeFt0zUL._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">28</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>http://ecx.images-amazon.com/images/I/311VeFt0zUL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">70</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>http://ecx.images-amazon.com/images/I/311VeFt0zUL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">70</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>http://ecx.images-amazon.com/images/I/311VeFt0zUL._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">103</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>http://ecx.images-amazon.com/images/I/311VeFt0zUL._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">149</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>http://ecx.images-amazon.com/images/I/311VeFt0zUL.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">467</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>http://ecx.images-amazon.com/images/I/310d9WRrigL._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">28</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>http://ecx.images-amazon.com/images/I/310d9WRrigL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">70</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>http://ecx.images-amazon.com/images/I/310d9WRrigL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">70</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>http://ecx.images-amazon.com/images/I/310d9WRrigL._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">103</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>http://ecx.images-amazon.com/images/I/310d9WRrigL._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">149</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>http://ecx.images-amazon.com/images/I/310d9WRrigL.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">467</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="primary">
+                    <SwatchImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31IW6HVSUwL._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">28</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31IW6HVSUwL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">70</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31IW6HVSUwL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">70</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31IW6HVSUwL._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">103</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31IW6HVSUwL._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">149</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31IW6HVSUwL.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">467</Width>
+                    </LargeImage>
+                </ImageSet>
+            </ImageSets>
+            <ItemAttributes>
+                <Binding>Electronics</Binding>
+                <Brand>Beats</Brand>
+                <Color>Purple</Color>
+                <EAN>0638267988528</EAN>
+                <EANList>
+                    <EANListElement>0638267988528</EANListElement>
+                </EANList>
+                <Feature>This Certified Refurbished product is factory refurbished, shows limited or no wear, and includes all original accessories plus a 90 day warranty</Feature>
+                <Feature>Item Includes: Beats Solo HD on-ear headphone and In-line control and mic cable. Carry case not included.</Feature>
+                <Feature>Clearer sound. Deeper bass. Beats Solo HD headphones are the only Beats by Dr. Dre that come with not one, but two speakers inside each can. That means you get crystal clear highs and deep, rumbling lows in high definition. Every pair is now constructed of super-durable, flexible material, reinforced with a metal strip to make sure it never comes apart.</Feature>
+                <Feature>Built-in mic for calls. Switch easily between songs and incoming calls. No need to take off your headphones or talk into the phone like a walkie-talkie.</Feature>
+                <Feature>Remote control. Take calls, skip songs and adjust volume right from the cord of your Beats Solo HD headphones. No more searching for your phone or music player just to find the right song.</Feature>
+                <ItemDimensions>
+                    <Height Units="hundredths-inches">690</Height>
+                    <Length Units="hundredths-inches">910</Length>
+                    <Width Units="hundredths-inches">530</Width>
+                </ItemDimensions>
+                <Label>Beats</Label>
+                <ListPrice>
+                    <Amount>19995</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$199.95</FormattedPrice>
+                </ListPrice>
+                <Manufacturer>Beats</Manufacturer>
+                <Model>900-00064-01</Model>
+                <MPN>900-00064-01</MPN>
+                <PackageDimensions>
+                    <Height Units="hundredths-inches">350</Height>
+                    <Length Units="hundredths-inches">900</Length>
+                    <Weight Units="hundredths-pounds">145</Weight>
+                    <Width Units="hundredths-inches">540</Width>
+                </PackageDimensions>
+                <PackageQuantity>1</PackageQuantity>
+                <PartNumber>900-00064-01</PartNumber>
+                <ProductGroup>CE</ProductGroup>
+                <ProductTypeName>AUDIO_OR_VIDEO</ProductTypeName>
+                <Publisher>Beats</Publisher>
+                <Studio>Beats</Studio>
+                <Title>Beats Solo HD On-Ear Headphone - Purple (Certified Refurbished)</Title>
+                <UPC>638267988528</UPC>
+                <UPCList>
+                    <UPCListElement>638267988528</UPCListElement>
+                </UPCList>
+            </ItemAttributes>
+            <VariationAttributes>
+                <VariationAttribute>
+                    <Name>Color</Name>
+                    <Value>Purple</Value>
+                </VariationAttribute>
+            </VariationAttributes>
+            <Offers>
+                <Offer>
+                    <Merchant>
+                        <Name>Square Deals Inc</Name>
+                    </Merchant>
+                    <OfferAttributes>
+                        <Condition>New</Condition>
+                    </OfferAttributes>
+                    <OfferListing>
+                        <OfferListingId>fP7hbeuJAzTFZCzkC6RvQsyCpheu%2BBJjbZkN2CywisD6GIVcs4JzE7Azatn2u%2Bm3t0KY3sFqUfeuijxBHgYn6mQlOZSEWbx54ab8mM1QAaghnGlD3h%2Fr7Upp470LnptrOa%2FTiNixVnQhJYz8yHkNVJ1GnUUeCh8T</OfferListingId>
+                        <Price>
+                            <Amount>11499</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$114.99</FormattedPrice>
+                        </Price>
+                        <AmountSaved>
+                            <Amount>8496</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$84.96</FormattedPrice>
+                        </AmountSaved>
+                        <PercentageSaved>42</PercentageSaved>
+                        <Availability>Usually ships in 24 hours</Availability>
+                        <AvailabilityAttributes>
+                            <AvailabilityType>now</AvailabilityType>
+                            <MinimumHours>0</MinimumHours>
+                            <MaximumHours>0</MaximumHours>
+                        </AvailabilityAttributes>
+                        <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+                        <IsEligibleForPrime>1</IsEligibleForPrime>
+                    </OfferListing>
+                </Offer>
+            </Offers>
+        </Item>
+        <Item>
+            <ASIN>B013HAYV90</ASIN>
+            <ParentASIN>B0145QVVX4</ParentASIN>
+            <SmallImage>
+                <URL>http://ecx.images-amazon.com/images/I/31%2BlbQaFpaL._SL75_.jpg</URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">75</Width>
+            </SmallImage>
+            <MediumImage>
+                <URL>http://ecx.images-amazon.com/images/I/31%2BlbQaFpaL._SL160_.jpg</URL>
+                <Height Units="pixels">160</Height>
+                <Width Units="pixels">160</Width>
+            </MediumImage>
+            <LargeImage>
+                <URL>http://ecx.images-amazon.com/images/I/31%2BlbQaFpaL.jpg</URL>
+                <Height Units="pixels">500</Height>
+                <Width Units="pixels">500</Width>
+            </LargeImage>
+            <ImageSets>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41%2BnpjrHtSL._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41%2BnpjrHtSL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41%2BnpjrHtSL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41%2BnpjrHtSL._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41%2BnpjrHtSL._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41%2BnpjrHtSL.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>http://ecx.images-amazon.com/images/I/315Zzc5auBL._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>http://ecx.images-amazon.com/images/I/315Zzc5auBL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>http://ecx.images-amazon.com/images/I/315Zzc5auBL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>http://ecx.images-amazon.com/images/I/315Zzc5auBL._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>http://ecx.images-amazon.com/images/I/315Zzc5auBL._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>http://ecx.images-amazon.com/images/I/315Zzc5auBL.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41bD-lPTr4L._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41bD-lPTr4L._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41bD-lPTr4L._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41bD-lPTr4L._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41bD-lPTr4L._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41bD-lPTr4L.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31h3p763piL._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31h3p763piL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31h3p763piL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31h3p763piL._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31h3p763piL._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31h3p763piL.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="primary">
+                    <SwatchImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31%2BlbQaFpaL._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31%2BlbQaFpaL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31%2BlbQaFpaL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31%2BlbQaFpaL._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31%2BlbQaFpaL._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31%2BlbQaFpaL.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+            </ImageSets>
+            <ItemAttributes>
+                <Binding>Electronics</Binding>
+                <Brand>Beats</Brand>
+                <Color>White</Color>
+                <EAN>0636173542278</EAN>
+                <EANList>
+                    <EANListElement>0636173542278</EANListElement>
+                </EANList>
+                <Feature>This Certified Refurbished product is factory refurbished, shows limited or no wear, and includes all original accessories plus a 90 day warranty</Feature>
+                <Feature>Every pair is now constructed of super-durable, flexible material, reinforced with a metal strip to make sure it never comes apart.</Feature>
+                <Feature>Remote control. Take calls, skip songs and adjust volume right from the cord of your Beats Solo HD headphones. No more searching for your phone or music player just to find the right song.</Feature>
+                <Feature>Clearer sound. Deeper bass. Beats Solo HD headphones are the only Beats by Dr. Dre that come with not one, but two speakers inside each can. That means you get crystal clear highs and deep, rumbling lows in high definition.</Feature>
+                <Feature>Built-in mic for calls. Switch easily between songs and incoming calls. No need to take off your headphones or talk into the phone like a walkie-talkie.</Feature>
+                <ItemDimensions>
+                    <Height Units="hundredths-inches">690</Height>
+                    <Length Units="hundredths-inches">910</Length>
+                    <Width Units="hundredths-inches">530</Width>
+                </ItemDimensions>
+                <Label>Beats</Label>
+                <ListPrice>
+                    <Amount>19995</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$199.95</FormattedPrice>
+                </ListPrice>
+                <Manufacturer>Beats</Manufacturer>
+                <Model>BT ON SOLOHD WHT</Model>
+                <MPN>BT ON SOLOHD WHT</MPN>
+                <PackageDimensions>
+                    <Height Units="hundredths-inches">40</Height>
+                    <Length Units="hundredths-inches">900</Length>
+                    <Weight Units="hundredths-pounds">25</Weight>
+                    <Width Units="hundredths-inches">570</Width>
+                </PackageDimensions>
+                <PackageQuantity>1</PackageQuantity>
+                <PartNumber>BT ON SOLOHD WHT</PartNumber>
+                <ProductGroup>Receiver or Amplifier</ProductGroup>
+                <ProductTypeName>AUDIO_OR_VIDEO</ProductTypeName>
+                <Publisher>Beats</Publisher>
+                <Studio>Beats</Studio>
+                <Title>Beats Solo HD On-Ear Headphone - White (Certified Refurbished)</Title>
+                <UPC>636173542278</UPC>
+                <UPCList>
+                    <UPCListElement>636173542278</UPCListElement>
+                </UPCList>
+            </ItemAttributes>
+            <VariationAttributes>
+                <VariationAttribute>
+                    <Name>Color</Name>
+                    <Value>White</Value>
+                </VariationAttribute>
+            </VariationAttributes>
+            <Offers>
+                <Offer>
+                    <Merchant>
+                        <Name>Square Deals Inc</Name>
+                    </Merchant>
+                    <OfferAttributes>
+                        <Condition>New</Condition>
+                    </OfferAttributes>
+                    <OfferListing>
+                        <OfferListingId>3jOMj2SwqmDJTsBG6xTDDLQAp60oJAp6%2FyplHaXCAI%2F7%2FAips7x1z0vDodK0FwbigV6Xbb6euQRUM7IMMxpi7GgH92SxNWZgkCA9Tql1v4mXdiD70skNx5%2FXpwg4nxJ1XGMA5A6XQQlgqWvzAs3JLW6UXklc3nxx</OfferListingId>
+                        <Price>
+                            <Amount>11999</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$119.99</FormattedPrice>
+                        </Price>
+                        <AmountSaved>
+                            <Amount>7996</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$79.96</FormattedPrice>
+                        </AmountSaved>
+                        <PercentageSaved>40</PercentageSaved>
+                        <Availability>Usually ships in 24 hours</Availability>
+                        <AvailabilityAttributes>
+                            <AvailabilityType>now</AvailabilityType>
+                            <MinimumHours>0</MinimumHours>
+                            <MaximumHours>0</MaximumHours>
+                        </AvailabilityAttributes>
+                        <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+                        <IsEligibleForPrime>1</IsEligibleForPrime>
+                    </OfferListing>
+                </Offer>
+            </Offers>
+        </Item>
+        <Item>
+            <ASIN>B013HARFFW</ASIN>
+            <ParentASIN>B0145QVVX4</ParentASIN>
+            <SmallImage>
+                <URL>http://ecx.images-amazon.com/images/I/41duf01d4EL._SL75_.jpg</URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">75</Width>
+            </SmallImage>
+            <MediumImage>
+                <URL>http://ecx.images-amazon.com/images/I/41duf01d4EL._SL160_.jpg</URL>
+                <Height Units="pixels">160</Height>
+                <Width Units="pixels">160</Width>
+            </MediumImage>
+            <LargeImage>
+                <URL>http://ecx.images-amazon.com/images/I/41duf01d4EL.jpg</URL>
+                <Height Units="pixels">500</Height>
+                <Width Units="pixels">500</Width>
+            </LargeImage>
+            <ImageSets>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41au4n5FMjL._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41au4n5FMjL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41au4n5FMjL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41au4n5FMjL._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41au4n5FMjL._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41au4n5FMjL.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>http://ecx.images-amazon.com/images/I/310oqhPiHvL._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>http://ecx.images-amazon.com/images/I/310oqhPiHvL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>http://ecx.images-amazon.com/images/I/310oqhPiHvL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>http://ecx.images-amazon.com/images/I/310oqhPiHvL._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>http://ecx.images-amazon.com/images/I/310oqhPiHvL._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>http://ecx.images-amazon.com/images/I/310oqhPiHvL.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>http://ecx.images-amazon.com/images/I/414sD0mqPkL._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>http://ecx.images-amazon.com/images/I/414sD0mqPkL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>http://ecx.images-amazon.com/images/I/414sD0mqPkL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>http://ecx.images-amazon.com/images/I/414sD0mqPkL._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>http://ecx.images-amazon.com/images/I/414sD0mqPkL._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>http://ecx.images-amazon.com/images/I/414sD0mqPkL.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31EA69M2ruL._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31EA69M2ruL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31EA69M2ruL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31EA69M2ruL._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31EA69M2ruL._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>http://ecx.images-amazon.com/images/I/31EA69M2ruL.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="primary">
+                    <SwatchImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41duf01d4EL._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41duf01d4EL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41duf01d4EL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41duf01d4EL._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41duf01d4EL._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41duf01d4EL.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+            </ImageSets>
+            <ItemAttributes>
+                <Binding>Electronics</Binding>
+                <Brand>Beats</Brand>
+                <Color>Light Blue</Color>
+                <EAN>0636173542261</EAN>
+                <EANList>
+                    <EANListElement>0636173542261</EANListElement>
+                </EANList>
+                <Feature>This Certified Refurbished product is tested and certified to look and work like new. The refurbishing process includes functionality testing, basic cleaning, inspection, and repackaging. The resulting product includes all relevant accessories, comes with a minimum 90-day warranty, and may arrive in a generic box. Only sellers who meet a high performance bar may offer Certified Refurbished products on Amazon.com</Feature>
+                <Feature>Clearer sound. Deeperbass. Beats Solo HD headphones are the only Beats by Dr. Dre that come with not one, but two speakers inside each can. That means you get crystal clear highs and deep, rumbling lows in high definition.</Feature>
+                <Feature>Every pair is now constructed of super-durable, flexible material, reinforced with a metal strip to make sure it never comes apart.</Feature>
+                <Feature>Built-in mic for calls. Switch easily between songs and incoming calls. No need to take off your headphones or talk into the phone like a walkie-talkie.</Feature>
+                <Feature>Remote control. Take calls, skip songs and adjust volume right from the cord of your Beats Solo HD headphones. No more searching for your phone or music player just to find the right song.</Feature>
+                <ItemDimensions>
+                    <Height Units="hundredths-inches">690</Height>
+                    <Length Units="hundredths-inches">910</Length>
+                    <Weight Units="hundredths-pounds">150</Weight>
+                    <Width Units="hundredths-inches">530</Width>
+                </ItemDimensions>
+                <Label>Beats</Label>
+                <ListPrice>
+                    <Amount>19995</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$199.95</FormattedPrice>
+                </ListPrice>
+                <Manufacturer>Beats</Manufacturer>
+                <Model>BT ON SOLOHD LBL</Model>
+                <MPN>BT ON SOLOHD LBL</MPN>
+                <PackageDimensions>
+                    <Height Units="hundredths-inches">520</Height>
+                    <Length Units="hundredths-inches">900</Length>
+                    <Weight Units="hundredths-pounds">235</Weight>
+                    <Width Units="hundredths-inches">680</Width>
+                </PackageDimensions>
+                <PackageQuantity>1</PackageQuantity>
+                <PartNumber>BT ON SOLOHD LBL</PartNumber>
+                <ProductGroup>Receiver or Amplifier</ProductGroup>
+                <ProductTypeName>AUDIO_OR_VIDEO</ProductTypeName>
+                <Publisher>Beats</Publisher>
+                <Studio>Beats</Studio>
+                <Title>Beats Solo HD On-Ear Headphone - Light Blue (Certified Refurbished)</Title>
+                <UPC>636173542261</UPC>
+                <UPCList>
+                    <UPCListElement>636173542261</UPCListElement>
+                </UPCList>
+            </ItemAttributes>
+            <VariationAttributes>
+                <VariationAttribute>
+                    <Name>Color</Name>
+                    <Value>Light Blue</Value>
+                </VariationAttribute>
+            </VariationAttributes>
+            <Offers>
+                <Offer>
+                    <Merchant>
+                        <Name>Square Deals Inc</Name>
+                    </Merchant>
+                    <OfferAttributes>
+                        <Condition>New</Condition>
+                    </OfferAttributes>
+                    <OfferListing>
+                        <OfferListingId>tVk%2BE9v4MWstS8pauCWvFn7sZckjXgGjF7XHnXVJiMU4ye8inC9SRNOFisBgCrvYMKVYXfRsSoIaLm6ncDV8Cw8u0nypHqe9tTeBC2fS1hKDiaD%2FeFL5ClMm4KGMN2HayNrsTrni9BTBPC94YRGn9vzWDadgHp0C</OfferListingId>
+                        <Price>
+                            <Amount>8999</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$89.99</FormattedPrice>
+                        </Price>
+                        <AmountSaved>
+                            <Amount>10996</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$109.96</FormattedPrice>
+                        </AmountSaved>
+                        <PercentageSaved>55</PercentageSaved>
+                        <Availability>Usually ships in 24 hours</Availability>
+                        <AvailabilityAttributes>
+                            <AvailabilityType>now</AvailabilityType>
+                            <MinimumHours>0</MinimumHours>
+                            <MaximumHours>0</MaximumHours>
+                        </AvailabilityAttributes>
+                        <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+                        <IsEligibleForPrime>1</IsEligibleForPrime>
+                    </OfferListing>
+                </Offer>
+            </Offers>
+        </Item>
+    </Variations>
+</Item>

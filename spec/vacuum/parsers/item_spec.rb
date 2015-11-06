@@ -80,6 +80,35 @@ module Vacuum
           it { expect(subject.browse_nodes).to be_a_kind_of BrowseNodes }
         end
       end
+
+      context 'item with accessories' do
+        include_context 'load xml from fixture', 'item_with_accessories'
+
+        describe '#accessories' do
+          it { expect(subject.accessories).to be_a_kind_of(Accessories) }
+          it { expect(subject.accessories).to_not be_empty }
+        end
+      end
+
+      context 'item with variations' do
+        include_context 'load xml from fixture', 'item_with_variations'
+
+        describe '#variation_summary' do
+          it { expect(subject.variation_summary).to be_a_kind_of VariationSummary }
+        end
+
+        describe '#variations' do
+          it { expect(subject.variations).to be_a_kind_of Variations }
+          it { expect(subject.variations).to_not be_empty }
+        end
+      end
+
+      context 'item with variation attributes' do
+        include_context 'load xml from fixture', 'item_with_variation_attributes'
+
+        it { expect(subject.variation_attributes).to_not be_empty }
+        it { expect(subject.variation_attributes).to be_a_kind_of VariationAttributes }
+      end
     end
   end
 end
