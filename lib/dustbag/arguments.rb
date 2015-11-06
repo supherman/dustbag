@@ -4,5 +4,5 @@ module Dustbag
     include Parser::MapCollectionNode
 
     member_name 'Argument'
-   end
+  end
 end
