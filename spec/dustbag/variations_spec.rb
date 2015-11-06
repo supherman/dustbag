@@ -1,6 +1,4 @@
 require 'spec_helper'
-require 'shared_examples/collection_node'
-require 'shared_examples/node_context'
 
 module Dustbag
   describe Variations do

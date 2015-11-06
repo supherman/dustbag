@@ -1,7 +1,4 @@
 require 'spec_helper'
-require 'shared_examples/node'
-require 'shared_examples/simple_product'
-require 'shared_examples/node_context'
 
 module Dustbag
   describe Accessory do

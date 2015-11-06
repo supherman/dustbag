@@ -1,6 +1,4 @@
 require 'spec_helper'
-require 'shared_examples/node'
-require 'shared_examples/simple_product'
 
 module Dustbag
   describe SimilarProduct do

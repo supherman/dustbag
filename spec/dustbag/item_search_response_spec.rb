@@ -1,6 +1,4 @@
 require 'spec_helper'
-require 'shared_examples/common_response'
-require 'shared_examples/node_context'
 
 module Dustbag
   describe ItemSearchResponse do

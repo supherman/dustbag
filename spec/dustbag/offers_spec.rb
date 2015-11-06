@@ -1,5 +1,4 @@
 require 'spec_helper'
-require 'shared_examples/collection_node'
 
 module Dustbag
   describe Offers do
