@@ -159,6 +159,10 @@ module Vacuum
       def publication_date
         Date.parse(subnode_text('PublicationDate')) rescue nil
       end
+
+      def adult_product?
+        subnode_text('IsAdultProduct') == '1'
+      end
     end
   end
 end

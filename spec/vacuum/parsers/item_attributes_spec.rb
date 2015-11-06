@@ -154,6 +154,10 @@ module Vacuum
           it { expect(subject.running_time.value).to eq 189 }
           it { expect(subject.running_time.units).to eq 'minutes'}
         end
+
+        describe '#adult_product?' do
+          it { expect(subject.adult_product?).to be_falsy }
+        end
       end
 
       context 'when a book' do

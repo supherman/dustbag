@@ -10,6 +10,7 @@
     <Creator Role="Writer">Joss Whedon</Creator>
     <Director>Joss Whedon</Director>
     <Genre>Action</Genre>
+    <IsAdultProduct>0</IsAdultProduct>
     <Languages>
         <Language>
             <Name>English</Name>
