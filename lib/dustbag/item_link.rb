@@ -2,12 +2,8 @@ module Dustbag
   class ItemLink
     include Parser::Node
 
-    def description
-      subnode_text('Description')
-    end
+    text_attributes :description
 
-    def url
-      subnode_text('URL')
-    end
+    text_attributes url: 'URL'
   end
 end

@@ -1,23 +1,14 @@
 module Dustbag
   class Items
+    include Parser::Node
     include Parser::CollectionNode
 
     member_name 'Item'
 
-    def request
-      Request.new(subnode('Request'))
-    end
+    text_attributes :more_search_results_url
 
-    def total_results
-      subnode_text('TotalResults').to_i
-    end
+    numeric_attributes :total_results, :total_pages
 
-    def total_pages
-      subnode_text('TotalPages').to_i
-    end
-
-    def more_search_results_url
-      subnode_text('MoreSearchResultsUrl')
-    end
+    children :request
   end
 end

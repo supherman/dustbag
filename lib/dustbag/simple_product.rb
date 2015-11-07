@@ -1,11 +1,9 @@
 module Dustbag
   module SimpleProduct
-    def asin
-      subnode_text('ASIN')
-    end
+    include Parser::Node
 
-    def title
-      subnode_text('Title')
-    end
+    text_attributes asin: 'ASIN'
+
+    text_attributes :title
   end
 end

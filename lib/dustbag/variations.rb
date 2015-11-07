@@ -1,16 +1,12 @@
 module Dustbag
   class Variations
+    include Parser::Node
     include Parser::CollectionNode
 
     member_name 'Item'
 
-    def total
-      subnode_text('TotalVariations').to_i
-    end
-
-    def total_pages
-      subnode_text('TotalVariationPages').to_i
-    end
+    numeric_attributes total: 'TotalVariations',
+                       total_pages: 'TotalVariationPages'
 
     def dimensions
       dimensions = subnode('VariationDimensions')

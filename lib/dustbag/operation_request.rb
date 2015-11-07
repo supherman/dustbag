@@ -2,20 +2,12 @@ module Dustbag
   class OperationRequest
     include Parser::Node
 
-    def request_id
-      subnode_text('RequestId')
-    end
+    text_attributes :request_id, :request_processing_time
 
-    def arguments
-      Arguments.new(subnode('Arguments'))
-    end
+    children :arguments
 
-    def http_headers
-      HttpHeaders.new(subnode('HTTPHeaders'))
-    end
-
-    def request_processing_time
-      subnode_text('RequestProcessingTime')
-    end
+    child name:  :http_headers,
+          node:  'HTTPHeaders',
+          class: HttpHeaders
   end
 end

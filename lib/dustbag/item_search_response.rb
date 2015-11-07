@@ -1,9 +1,8 @@
 module Dustbag
   class ItemSearchResponse
+    include Parser::Node
     include Common
 
-    def items
-      Items.new(subnode('Items'))
-    end
+    children :items
   end
 end

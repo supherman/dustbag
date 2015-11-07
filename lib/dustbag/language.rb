@@ -2,12 +2,6 @@ module Dustbag
   class Language
     include Parser::Node
 
-    def name
-      subnode_text('Name')
-    end
-
-    def type
-      subnode_text('Type')
-    end
+    text_attributes :name, :type
   end
 end

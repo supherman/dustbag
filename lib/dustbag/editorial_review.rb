@@ -2,13 +2,7 @@ module Dustbag
   class EditorialReview
     include Parser::Node
 
-    def source
-      subnode_text('Source')
-    end
-
-    def content
-      subnode_text('Content')
-    end
+    text_attributes :source, :content
 
     def link_suppressed?
       subnode_text('IsLinkSuppressed') == '1'

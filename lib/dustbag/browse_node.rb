@@ -2,17 +2,11 @@ module Dustbag
   class BrowseNode
     include Parser::Node
 
-    def id
-      subnode_text('BrowseNodeId').to_i
-    end
+    numeric_attributes id: 'BrowseNodeId'
 
-    def name
-      subnode_text('Name')
-    end
+    text_attributes :name
 
-    def ancestors
-      BrowseNodes.new(subnode('Ancestors'))
-    end
+    children ancestors: BrowseNodes
 
     def category_root?
       subnode_text('IsCategoryRoot') == '1'

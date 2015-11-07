@@ -2,9 +2,7 @@ module Dustbag
   class CustomerReviews
     include Parser::Node
 
-    def iframe_url
-      subnode_text('IFrameURL')
-    end
+    text_attributes iframe_url: 'IFrameURL'
 
     def any?
       subnode_text('HasReviews') == 'true'

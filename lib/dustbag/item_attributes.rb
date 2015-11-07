@@ -2,17 +2,22 @@ module Dustbag
   class ItemAttributes
     include Parser::Node
 
-    def manufacturer
-      subnode_text('Manufacturer')
-    end
+    text_attributes :manufacturer, :product_group, :title, :director, :binding,
+                    :brand, :color, :model, :part_number, :product_type_name,
+                    :publisher, :studio, :size, :audience_rating, :genre
 
-    def product_group
-      subnode_text('ProductGroup')
-    end
+    numeric_attributes :number_of_items, :number_of_pages, :package_quantity
 
-    def title
-      subnode_text('Title')
-    end
+    text_attributes ean:  'EAN',
+                    mpn:  'MPN',
+                    upc:  'UPC',
+                    isbn: 'ISBN'
+
+    children item_dimensions: Dimensions,
+             package_dimensions: Dimensions,
+             running_time: Dimension
+
+    children :languages
 
     def actors
       repeated_subnodes_text('Actor')
@@ -25,28 +30,8 @@ module Dustbag
       end
     end
 
-    def director
-      subnode_text('Director')
-    end
-
     def authors
       repeated_subnodes_text('Author')
-    end
-
-    def binding
-      subnode_text('Binding')
-    end
-
-    def brand
-      subnode_text('Brand')
-    end
-
-    def color
-      subnode_text('Color')
-    end
-
-    def ean
-      subnode_text('EAN')
     end
 
     def ean_list
@@ -64,40 +49,8 @@ module Dustbag
       repeated_subnodes_text('Label')
     end
 
-    def model
-      subnode_text('Model')
-    end
-
-    def mpn
-      subnode_text('MPN')
-    end
-
-    def package_quantity
-      subnode_text('PackageQuantity').to_i
-    end
-
-    def part_number
-      subnode_text('PartNumber')
-    end
-
-    def product_type_name
-      subnode_text('ProductTypeName')
-    end
-
-    def publisher
-      subnode_text('Publisher')
-    end
-
-    def studio
-      subnode_text('Studio')
-    end
-
     def trade_in_value
       Price.parse(subnode('TradeInValue'))
-    end
-
-    def upc
-      subnode_text('UPC')
     end
 
     def upc_list
@@ -107,52 +60,12 @@ module Dustbag
       end
     end
 
-    def size
-      subnode_text('Size')
-    end
-
-    def item_dimensions
-      Dimensions.new(subnode('ItemDimensions'))
-    end
-
     def list_price
       Price.parse(subnode('ListPrice'))
     end
 
-    def package_dimensions
-      Dimensions.new(subnode('PackageDimensions'))
-    end
-
-    def audience_rating
-      subnode_text('AudienceRating')
-    end
-
-    def genre
-      subnode_text('Genre')
-    end
-
-    def languages
-      Languages.new(subnode('Languages'))
-    end
-
     def release_date
       Date.parse(subnode_text('ReleaseDate')) rescue nil
-    end
-
-    def running_time
-      Dimension.new(subnode('RunningTime'))
-    end
-
-    def isbn
-      subnode_text('ISBN')
-    end
-
-    def number_of_items
-      subnode_text('NumberOfItems').to_i
-    end
-
-    def number_of_pages
-      (subnode_text('NumberOfPages')).to_i
     end
 
     def publication_date
