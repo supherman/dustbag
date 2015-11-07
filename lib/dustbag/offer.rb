@@ -15,12 +15,12 @@ module Dustbag
 
     def price
       price = offer_listing && offer_listing.locate('Price').first
-      Price.new(price)
+      Price.parse(price)
     end
 
     def amount_saved
       savings = offer_listing && offer_listing.locate('AmountSaved').first
-      Price.new(savings)
+      Price.parse(savings)
     end
 
     def availability

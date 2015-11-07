@@ -93,7 +93,7 @@ module Dustbag
     end
 
     def trade_in_value
-      Price.new(subnode_text('TradeInValue'))
+      Price.parse(subnode('TradeInValue'))
     end
 
     def upc
@@ -116,7 +116,7 @@ module Dustbag
     end
 
     def list_price
-      Price.new(subnode('ListPrice'))
+      Price.parse(subnode('ListPrice'))
     end
 
     def package_dimensions

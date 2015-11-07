@@ -1,5 +1,8 @@
+require 'money'
 require 'ox'
 require 'dustbag/version'
+
+Money.use_i18n = ENV['USE_I18N_FOR_MONEY'] || false
 
 module Dustbag
   autoload :Accessories, 'dustbag/accessories'

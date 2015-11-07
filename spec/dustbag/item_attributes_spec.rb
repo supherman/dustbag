@@ -61,7 +61,7 @@ module Dustbag
     end
 
     describe '#list_price' do
-      it { expect(subject.list_price).to be_a_kind_of Price }
+      it { expect(subject.list_price).to be_a_kind_of Money }
     end
 
     describe '#model' do
@@ -101,7 +101,7 @@ module Dustbag
     end
 
     describe '#trade_in_value' do
-      it { expect(subject.trade_in_value).to be_a_kind_of Price }
+      it { expect(subject.trade_in_value).to be_a_kind_of Money }
     end
 
     describe '#upc' do

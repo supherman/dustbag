@@ -3,7 +3,7 @@ module Dustbag
     include Parser::Node
 
     def lowest_new_price
-      Price.new(subnode('LowestNewPrice'))
+      Price.parse(subnode('LowestNewPrice'))
     end
 
     def total_new

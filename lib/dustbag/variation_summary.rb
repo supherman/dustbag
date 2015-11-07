@@ -3,11 +3,11 @@ module Dustbag
     include Parser::Node
 
     def lowest_price
-      Price.new(subnode('LowestPrice'))
+      Price.parse(subnode('LowestPrice'))
     end
 
     def highest_price
-      Price.new(subnode('HighestPrice'))
+      Price.parse(subnode('HighestPrice'))
     end
   end
 end

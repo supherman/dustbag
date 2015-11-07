@@ -1,17 +1,13 @@
 module Dustbag
-  class Price
-    include Parser::Node
+  module Price
+    extend self
 
-    def amount
-      subnode_text('Amount').to_i
-    end
-
-    def currency_code
-      subnode_text('CurrencyCode')
-    end
-
-    def formatted_price
-      subnode_text('FormattedPrice')
+    def parse(xml_node)
+      xml_node && begin
+        amount   = xml_node.locate('Amount').first
+        currency = xml_node.locate('Currency').first
+        Money.new(amount && amount.text, currency && currency.text)
+      end
     end
   end
 end

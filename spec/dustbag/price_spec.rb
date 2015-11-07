@@ -2,20 +2,17 @@ require 'spec_helper'
 
 module Dustbag
   describe Price do
-    include_context 'load xml from fixture'
+    let(:xml) { Ox.parse(File.read('spec/fixtures/price.xml')) }
 
-    it_behaves_like 'a node'
+    describe '#parse' do
+      it { expect(subject.parse(xml)).to be_a_kind_of Money }
+      it { expect(subject.parse(xml).to_s).to eq '179.99' }
+      it { expect(subject.parse(xml).currency).to be_a_kind_of Money::Currency }
+      it { expect(subject.parse(xml).currency.iso_code).to eq 'USD' }
 
-    describe '#amount' do
-      it { expect(subject.amount).to eq 17999 }
-    end
-
-    describe '#currency_code' do
-      it { expect(subject.currency_code).to eq 'USD' }
-    end
-
-    describe '#formatted_price' do
-      it { expect(subject.formatted_price).to eq '$179.99' }
+      context 'when xml is nil' do
+        it { expect(subject.parse(nil)).to be_nil }
+      end
     end
   end
 end

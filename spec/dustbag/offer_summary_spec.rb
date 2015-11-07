@@ -7,8 +7,8 @@ module Dustbag
     it_behaves_like 'a node'
 
     describe '#lowest_new_price' do
-      it { expect(subject.lowest_new_price).to be_a_kind_of Price }
-      it { expect(subject.lowest_new_price.formatted_price).to eq '$14.99' }
+      it { expect(subject.lowest_new_price).to be_a_kind_of Money }
+      it { expect(subject.lowest_new_price.format).to eq '$14.99' }
     end
 
     describe '#total_new' do

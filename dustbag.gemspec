@@ -17,6 +17,7 @@ Gem::Specification.new do |gem|
   gem.test_files    = Dir.glob('spec/**/*')
   gem.require_paths = ['lib']
 
+  gem.add_dependency 'money'
   gem.add_dependency 'vacuum'
   gem.add_dependency 'ox'
 

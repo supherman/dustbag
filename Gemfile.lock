@@ -2,6 +2,7 @@ PATH
   remote: .
   specs:
     dustbag (0.0.1)
+      money
       ox
       vacuum
 
@@ -14,10 +15,13 @@ GEM
     diff-lcs (1.2.5)
     docile (1.1.5)
     excon (0.45.4)
+    i18n (0.7.0)
     jeff (1.5.1)
       excon (>= 0.22.1)
     json (1.8.3)
     method_source (0.8.2)
+    money (6.6.1)
+      i18n (>= 0.6.4, <= 0.7.0)
     multi_xml (0.5.5)
     ox (2.2.2)
     pry (0.10.3)

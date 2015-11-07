@@ -15,13 +15,13 @@ module Dustbag
     end
 
     describe '#price' do
-      it { expect(subject.price).to be_a_kind_of Price }
-      it { expect(subject.price.formatted_price).to eq '$179.62' }
+      it { expect(subject.price).to be_a_kind_of Money }
+      it { expect(subject.price.format).to eq '$179.62' }
     end
 
     describe '#amount_saved' do
-      it { expect(subject.amount_saved).to be_a_kind_of Price }
-      it { expect(subject.amount_saved.formatted_price).to eq '$0.37' }
+      it { expect(subject.amount_saved).to be_a_kind_of Money }
+      it { expect(subject.amount_saved.format).to eq '$0.37' }
     end
 
     describe '#availability' do

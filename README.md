@@ -22,6 +22,30 @@ gem 'dustbag'
 
 You'll need credentials to access to the Amazon Product Advertising API, also an affiliate tag, you can get them following [this instructions](https://affiliate-program.amazon.com/gp/advertising/api/detail/your-account.html?ie=UTF8&pf_rd_i=assoc-api-thank-you-0&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=&pf_rd_r=&pf_rd_s=assoc-center-1&pf_rd_t=501&ref_=amb_link_83957991_1&rw_useCurrentProtocol=1)
 
+Once you get your credentials, you'll need to configure Vacuum to use your credentials, you have two options, you can set the following env vars:
+
+```zsh
+export AWS_ACCESS_KEY_ID=key
+export AWS_SECRET_ACCESS_KEY=secret
+```
+
+Or, you can explicitly say to vacuum to use your credentials:
+
+```Ruby
+request.configure(
+    aws_access_key_id: 'key',
+    aws_secret_access_key: 'secret',
+    associate_tag: 'tag'
+)
+```
+
+One more thing, this gem makes use of the [Money](https://github.com/RubyMoney/money) gem, money makes use of i18n to format money strings, by default this behaviour is disabled, if you want to enable i18n with money, you can enable it by setting the next env var:
+
+```
+export USE_I18N_FOR_MONEY=true
+```
+
+
 ## Usage
 
 ```ruby
