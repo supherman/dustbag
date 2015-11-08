@@ -13,7 +13,7 @@ Gem::Specification.new do |gem|
   gem.summary     = 'Amazon Product Advertising API response parsers in Ruby'
   gem.license     = 'MIT'
 
-  gem.files         = Dir.glob('lib/**/*') + %w(LICENSE README.md)
+  gem.files         = Dir.glob('lib/**/*') + %w(LICENSE.txt README.md)
   gem.test_files    = Dir.glob('spec/**/*')
   gem.require_paths = ['lib']
 
