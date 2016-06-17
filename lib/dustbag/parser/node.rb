@@ -104,6 +104,9 @@ module Dustbag
         private
 
         def xml_node_name(attr)
+          if attr == :url
+            return "URL"
+          end
           attr.to_s.split('_').map(&:capitalize).join('')
         end
       end
